@@ -3,8 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1521017661643">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/plana/scaff-api-gateway/src/main/java/com/scaff/api/gateway/filter/planna/DecryptRequestFilter.java" timestamp="1521016859775">
         <mark key="[" line="119" column="13" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/temple/alpha-business/temple-business-crawler-base/src/main/java/com/alpha/business/crawler/base/QueryCrawlerSpider.java" timestamp="1521017713252">
+        <mark key="[" line="300" column="26" />
       </file>
     </filemarks>
     <jumps />
