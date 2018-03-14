@@ -6,6 +6,12 @@
       <file name="/Dummy.txt" timestamp="1521017661643">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/cloud/eureka-server/src/main/resources/application.properties" timestamp="1521022481521">
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="8" column="5" />
+        <mark key="^" line="8" column="5" />
+        <mark key="." line="8" column="5" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/temple/alpha-business/common-business-model/src/main/java/com/alpha/business/common/model/query/base/QueryRequest.java" timestamp="1521018722895">
         <mark key="[" line="75" column="16" />
       </file>
@@ -15,8 +21,14 @@
       <file name="$USER_HOME$/IdeaProjects/plana/scaff-api-gateway/src/main/java/com/scaff/api/gateway/filter/planna/DecryptRequestFilter.java" timestamp="1521016859775">
         <mark key="[" line="119" column="13" />
       </file>
+      <file name="/HTML File.txt.ft" timestamp="1521022582720">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/temple/alpha-business/temple-business-crawler-base/src/main/java/com/alpha/business/crawler/base/QueryCrawlerSpider.java" timestamp="1521017713252">
         <mark key="[" line="300" column="26" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/temple/alpha-application/temple-application-crawler-query/pom.xml" timestamp="1521022710590">
+        <mark key="[" line="28" column="0" />
       </file>
     </filemarks>
     <jumps />
@@ -25,7 +37,13 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-cmd />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
