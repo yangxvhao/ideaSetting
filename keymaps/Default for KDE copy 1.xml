@@ -1,0 +1,6 @@
+<keymap version="1" name="Default for KDE copy 1" parent="Default for KDE">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="shift ctrl space" />
+  </action>
+  <action id="SmartTypeCompletion" />
+</keymap>
