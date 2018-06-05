@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="机器学习" />
+      <item value="Result" />
       <item value="amount" />
     </histories>
   </component>
