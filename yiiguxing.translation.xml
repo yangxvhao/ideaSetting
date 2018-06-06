@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ufunc 'subtract' did not contain a loop with signature matching types dtype('&lt;U2') dtype('&lt;U2') dtype('&lt;U2')" />
       <item value="计算" />
       <item value="机器学习" />
       <item value="Result" />
