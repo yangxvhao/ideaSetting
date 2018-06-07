@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="全国" />
       <item value="时间戳" />
       <item value="初始容量" />
       <item value="initial" />
