@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="receipent" />
+      <item value="gender" />
       <item value="FIXME check this code" />
       <item value="Coverage" />
       <item value="全国" />
