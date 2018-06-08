@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="份数" />
       <item value="保额" />
       <item value="缴费年限" />
       <item value="终身" />
