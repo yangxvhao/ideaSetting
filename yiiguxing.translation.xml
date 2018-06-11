@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="长度" />
+      <item value="lenght" />
+      <item value="lenghs" />
+      <item value="lengh" />
+      <item value="保额" />
       <item value="Cannot read property 'productCode' of undefined" />
       <item value="Cannot read property 'lvl' of undefined" />
       <item value="寿险" />
@@ -11,7 +16,6 @@
       <item value="Coverage" />
       <item value="保费" />
       <item value="缴费期间" />
-      <item value="保额" />
       <item value="份数" />
       <item value="缴费年限" />
       <item value="终身" />
