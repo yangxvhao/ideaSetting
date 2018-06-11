@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot read property 'productCode' of undefined" />
+      <item value="Cannot read property 'lvl' of undefined" />
       <item value="寿险" />
       <item value="Gender" />
       <item value="whistle" />
