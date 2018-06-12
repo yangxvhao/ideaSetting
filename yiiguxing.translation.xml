@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="receipent" />
       <item value="长度" />
       <item value="lenght" />
       <item value="lenghs" />
@@ -19,7 +20,6 @@
       <item value="份数" />
       <item value="缴费年限" />
       <item value="终身" />
-      <item value="receipent" />
       <item value="gender" />
       <item value="FIXME check this code" />
       <item value="全国" />
