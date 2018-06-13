@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Injection of resource dependencies failed" />
+      <item value="expected at least 1 bean which qualifies as autowire candidate." />
       <item value="authorization" />
       <item value="receipent" />
       <item value="长度" />
