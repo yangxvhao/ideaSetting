@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="_init__() takes 3 positional arguments but 4 were given" />
+      <item value="send_email() takes from 3 to 4 positional arguments but 6 were given" />
+      <item value="attachment" />
+      <item value="附件" />
       <item value="正文" />
       <item value="Injection of resource dependencies failed" />
       <item value="expected at least 1 bean which qualifies as autowire candidate." />
