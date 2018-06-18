@@ -1,0 +1,45 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="_init__() takes 3 positional arguments but 4 were given" />
+      <item value="send_email() takes from 3 to 4 positional arguments but 6 were given" />
+      <item value="attachment" />
+      <item value="附件" />
+      <item value="正文" />
+      <item value="Injection of resource dependencies failed" />
+      <item value="expected at least 1 bean which qualifies as autowire candidate." />
+      <item value="authorization" />
+      <item value="receipent" />
+      <item value="长度" />
+      <item value="lenght" />
+      <item value="lenghs" />
+      <item value="lengh" />
+      <item value="保额" />
+      <item value="Cannot read property 'productCode' of undefined" />
+      <item value="Cannot read property 'lvl' of undefined" />
+      <item value="寿险" />
+      <item value="Gender" />
+      <item value="whistle" />
+      <item value="whil" />
+      <item value="acquire" />
+      <item value="Coverage" />
+      <item value="保费" />
+      <item value="缴费期间" />
+      <item value="份数" />
+      <item value="缴费年限" />
+      <item value="终身" />
+      <item value="gender" />
+      <item value="FIXME check this code" />
+      <item value="全国" />
+      <item value="时间戳" />
+      <item value="初始容量" />
+      <item value="initial" />
+      <item value="Capacity" />
+      <item value="ufunc 'subtract' did not contain a loop with signature matching types dtype('&lt;U2') dtype('&lt;U2') dtype('&lt;U2')" />
+      <item value="计算" />
+      <item value="机器学习" />
+      <item value="Result" />
+      <item value="amount" />
+    </histories>
+  </component>
+</application>
