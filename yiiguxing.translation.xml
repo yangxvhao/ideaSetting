@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot determine embedded database driver class for database type NONE" />
+      <item value="职业" />
+      <item value="OCCTYPE" />
       <item value="_init__() takes 3 positional arguments but 4 were given" />
       <item value="send_email() takes from 3 to 4 positional arguments but 6 were given" />
       <item value="attachment" />
