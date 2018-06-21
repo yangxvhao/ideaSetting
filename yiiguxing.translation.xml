@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Trace" />
       <item value=" Aggregator projects " />
       <item value="Cannot determine embedded database driver class for database type NONE" />
       <item value="职业" />
@@ -45,5 +46,8 @@
       <item value="Result" />
       <item value="amount" />
     </histories>
+  </component>
+  <component name="Settings">
+    <option name="autoSelectionMode" value="EXCLUSIVE" />
   </component>
 </application>
