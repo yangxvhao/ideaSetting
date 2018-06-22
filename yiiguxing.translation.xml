@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Resolver" />
+      <item value="Argument" />
       <item value="Strategy interface for resolving method parameters into argument values in * the context of a given request." />
       <item value="Trace" />
       <item value=" Aggregator projects " />
