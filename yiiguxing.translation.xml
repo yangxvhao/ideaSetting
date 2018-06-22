@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="正常" />
       <item value="Resolver" />
       <item value="Argument" />
       <item value="Strategy interface for resolving method parameters into argument values in * the context of a given request." />
