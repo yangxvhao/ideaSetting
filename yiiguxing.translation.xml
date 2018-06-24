@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cannot assign instance of java.lang.Integer to field com.alpha.business.common.model.insurance.rabbitqrequest.LifeQuoteRequest.insuredAmount of type java.lang.Long in instance of com.alpha.business.common.model.insurance.rabbitqrequest.LifeQuoteRequest" />
+      <item value="cannot assign instance of" />
+      <item value="正常" />
+      <item value="Resolver" />
+      <item value="Argument" />
+      <item value="Strategy interface for resolving method parameters into argument values in * the context of a given request." />
+      <item value="Trace" />
+      <item value=" Aggregator projects " />
+      <item value="Cannot determine embedded database driver class for database type NONE" />
+      <item value="职业" />
+      <item value="OCCTYPE" />
       <item value="_init__() takes 3 positional arguments but 4 were given" />
       <item value="send_email() takes from 3 to 4 positional arguments but 6 were given" />
       <item value="attachment" />
@@ -41,5 +52,8 @@
       <item value="Result" />
       <item value="amount" />
     </histories>
+  </component>
+  <component name="Settings">
+    <option name="autoSelectionMode" value="EXCLUSIVE" />
   </component>
 </application>
