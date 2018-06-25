@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Correlation" />
+      <item value="服务" />
+      <item value="exchange" />
       <item value="reverse" />
       <item value="sentinel" />
       <item value="Async" />
@@ -48,9 +51,6 @@
       <item value="gender" />
       <item value="FIXME check this code" />
       <item value="全国" />
-      <item value="时间戳" />
-      <item value="初始容量" />
-      <item value="initial" />
     </histories>
   </component>
   <component name="Settings">
