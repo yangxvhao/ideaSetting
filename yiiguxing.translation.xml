@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="重新获取" />
       <item value="token not a valied jwt token" />
       <item value="could not be resolved" />
       <item value="cannot assign instance of java.lang.Integer to field com.alpha.business.common.model.insurance.rabbitqrequest.LifeQuoteRequest.insuredAmount of type java.lang.Long in instance of com.alpha.business.common.model.insurance.rabbitqrequest.LifeQuoteRequest" />
@@ -50,7 +51,6 @@
       <item value="Capacity" />
       <item value="ufunc 'subtract' did not contain a loop with signature matching types dtype('&lt;U2') dtype('&lt;U2') dtype('&lt;U2')" />
       <item value="计算" />
-      <item value="机器学习" />
     </histories>
   </component>
   <component name="Settings">
