@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reverse" />
       <item value="sentinel" />
       <item value="Async" />
       <item value="重新获取" />
@@ -50,7 +51,6 @@
       <item value="时间戳" />
       <item value="初始容量" />
       <item value="initial" />
-      <item value="Capacity" />
     </histories>
   </component>
   <component name="Settings">
