@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="could not be resolved" />
       <item value="cannot assign instance of java.lang.Integer to field com.alpha.business.common.model.insurance.rabbitqrequest.LifeQuoteRequest.insuredAmount of type java.lang.Long in instance of com.alpha.business.common.model.insurance.rabbitqrequest.LifeQuoteRequest" />
       <item value="cannot assign instance of" />
       <item value="正常" />
@@ -50,7 +51,6 @@
       <item value="计算" />
       <item value="机器学习" />
       <item value="Result" />
-      <item value="amount" />
     </histories>
   </component>
   <component name="Settings">
