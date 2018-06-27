@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="use configuration classes provided 'org.apache.http.config'" />
       <item value="cost" />
       <item value="Correlation" />
       <item value="服务" />
@@ -50,7 +51,6 @@
       <item value="缴费年限" />
       <item value="终身" />
       <item value="gender" />
-      <item value="FIXME check this code" />
     </histories>
   </component>
   <component name="Settings">
