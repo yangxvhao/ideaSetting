@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cost" />
       <item value="Correlation" />
       <item value="服务" />
       <item value="exchange" />
@@ -50,7 +51,6 @@
       <item value="终身" />
       <item value="gender" />
       <item value="FIXME check this code" />
-      <item value="全国" />
     </histories>
   </component>
   <component name="Settings">
