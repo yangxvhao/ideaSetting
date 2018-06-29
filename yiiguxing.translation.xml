@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="RESOLVE" />
+      <item value="resolve" />
+      <item value="解析" />
       <item value="币种" />
       <item value="销售的单位" />
       <item value="销售单位" />
@@ -48,9 +51,6 @@
       <item value="Injection of resource dependencies failed" />
       <item value="expected at least 1 bean which qualifies as autowire candidate." />
       <item value="authorization" />
-      <item value="receipent" />
-      <item value="长度" />
-      <item value="lenght" />
     </histories>
   </component>
   <component name="Settings">
