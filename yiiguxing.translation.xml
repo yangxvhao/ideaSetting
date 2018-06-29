@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Connection reset" />
       <item value="Abstract method 'run(O, E)' cannot be accessed directly" />
       <item value="Abstract method 'run(O, E)' cannot be accessed directl" />
       <item value="接收" />
@@ -50,7 +51,6 @@
       <item value="whistle" />
       <item value="whil" />
       <item value="acquire" />
-      <item value="Coverage" />
     </histories>
   </component>
   <component name="Settings">
