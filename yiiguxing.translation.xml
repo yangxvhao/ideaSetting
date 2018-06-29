@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Abstract method 'run(O, E)' cannot be accessed directly" />
+      <item value="Abstract method 'run(O, E)' cannot be accessed directl" />
       <item value="接收" />
       <item value="A group has to be an interface. com.example.demo.dto.User is not" />
       <item value="Annotation indicating a method parameter should be bound to the body of the web request. * The body of the request is passed through an {@link HttpMessageConverter} to resolve the * method argument depending on the content type of the request. Optionally, automatic * validation can be applied by annotating the argument with {@code @Valid}. *" />
@@ -49,8 +51,6 @@
       <item value="whil" />
       <item value="acquire" />
       <item value="Coverage" />
-      <item value="保费" />
-      <item value="缴费期间" />
     </histories>
   </component>
   <component name="Settings">
