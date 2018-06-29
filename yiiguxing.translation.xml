@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="币种" />
+      <item value="销售的单位" />
+      <item value="销售单位" />
+      <item value="未缴保费" />
+      <item value="未交保费" />
+      <item value="保额" />
+      <item value="保费" />
+      <item value="apply" />
+      <item value="投保人" />
+      <item value="被保险人" />
       <item value="Connection reset" />
       <item value="Abstract method 'run(O, E)' cannot be accessed directly" />
       <item value="Abstract method 'run(O, E)' cannot be accessed directl" />
@@ -41,16 +51,6 @@
       <item value="receipent" />
       <item value="长度" />
       <item value="lenght" />
-      <item value="lenghs" />
-      <item value="lengh" />
-      <item value="保额" />
-      <item value="Cannot read property 'productCode' of undefined" />
-      <item value="Cannot read property 'lvl' of undefined" />
-      <item value="寿险" />
-      <item value="Gender" />
-      <item value="whistle" />
-      <item value="whil" />
-      <item value="acquire" />
     </histories>
   </component>
   <component name="Settings">
