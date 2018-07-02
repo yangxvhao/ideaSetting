@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Make a new array of a's runtime type, but my contents" />
       <item value="查询条件" />
       <item value="正确" />
       <item value="验证码" />
@@ -50,7 +51,6 @@
       <item value="_init__() takes 3 positional arguments but 4 were given" />
       <item value="send_email() takes from 3 to 4 positional arguments but 6 were given" />
       <item value="attachment" />
-      <item value="附件" />
     </histories>
   </component>
   <component name="Settings">
