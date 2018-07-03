@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="An unexpected connection driver error occured (Exception message: Socket closed)" />
+      <item value="Rectangle" />
       <item value="Native library (linux-x86-64/libtesseract.so) not found in resource path" />
       <item value="Unable to load library 'tesseract': Native library (linux-x86-64/libtesseract.so) not found in resource path" />
       <item value="Make a new array of a's runtime type, but my contents" />
@@ -49,8 +51,6 @@
       <item value=" Aggregator projects " />
       <item value="Cannot determine embedded database driver class for database type NONE" />
       <item value="职业" />
-      <item value="OCCTYPE" />
-      <item value="_init__() takes 3 positional arguments but 4 were given" />
     </histories>
   </component>
   <component name="Settings">
