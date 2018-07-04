@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="The crash happened outside the Java Virtual Machine in native code." />
+      <item value="A fatal error has been detected by the Java Runtime Environment" />
       <item value="An unexpected connection driver error occured (Exception message: Socket closed)" />
       <item value="Rectangle" />
       <item value="Native library (linux-x86-64/libtesseract.so) not found in resource path" />
@@ -50,7 +51,6 @@
       <item value="Strategy interface for resolving method parameters into argument values in * the context of a given request." />
       <item value="Trace" />
       <item value=" Aggregator projects " />
-      <item value="Cannot determine embedded database driver class for database type NONE" />
     </histories>
   </component>
   <component name="Settings">
