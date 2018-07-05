@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Time unit representing one second" />
+      <item value="Time unit representing one thousandth of a second" />
+      <item value="执行" />
+      <item value="Count of thread alive for monitor." />
+      <item value="Block when thread pool is full to avoid poll many urls without process" />
       <item value="The crash happened outside the Java Virtual Machine in native code." />
       <item value="A fatal error has been detected by the Java Runtime Environment" />
       <item value="An unexpected connection driver error occured (Exception message: Socket closed)" />
@@ -46,11 +51,6 @@
       <item value="cannot assign instance of java.lang.Integer to field com.alpha.business.common.model.insurance.rabbitqrequest.LifeQuoteRequest.insuredAmount of type java.lang.Long in instance of com.alpha.business.common.model.insurance.rabbitqrequest.LifeQuoteRequest" />
       <item value="cannot assign instance of" />
       <item value="正常" />
-      <item value="Resolver" />
-      <item value="Argument" />
-      <item value="Strategy interface for resolving method parameters into argument values in * the context of a given request." />
-      <item value="Trace" />
-      <item value=" Aggregator projects " />
     </histories>
   </component>
   <component name="Settings">
