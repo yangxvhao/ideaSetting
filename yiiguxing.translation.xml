@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="concurrency" />
+      <item value="Prefetch" />
+      <item value="Concurrent" />
+      <item value="Async" />
+      <item value="prefetch" />
       <item value="Time unit representing one second" />
       <item value="Time unit representing one thousandth of a second" />
       <item value="执行" />
@@ -44,13 +49,8 @@
       <item value="exchange" />
       <item value="reverse" />
       <item value="sentinel" />
-      <item value="Async" />
       <item value="重新获取" />
       <item value="token not a valied jwt token" />
-      <item value="could not be resolved" />
-      <item value="cannot assign instance of java.lang.Integer to field com.alpha.business.common.model.insurance.rabbitqrequest.LifeQuoteRequest.insuredAmount of type java.lang.Long in instance of com.alpha.business.common.model.insurance.rabbitqrequest.LifeQuoteRequest" />
-      <item value="cannot assign instance of" />
-      <item value="正常" />
     </histories>
   </component>
   <component name="Settings">
