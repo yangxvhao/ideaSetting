@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="evaluated" />
       <item value="concurrency" />
       <item value="Prefetch" />
       <item value="Concurrent" />
@@ -50,7 +51,6 @@
       <item value="reverse" />
       <item value="sentinel" />
       <item value="重新获取" />
-      <item value="token not a valied jwt token" />
     </histories>
   </component>
   <component name="Settings">
