@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Temporary" />
+      <item value="Pending Reply" />
+      <item value="Pending" />
+      <item value="mandatory" />
       <item value="evaluated" />
       <item value="concurrency" />
       <item value="Prefetch" />
@@ -47,10 +51,6 @@
       <item value="cost" />
       <item value="Correlation" />
       <item value="服务" />
-      <item value="exchange" />
-      <item value="reverse" />
-      <item value="sentinel" />
-      <item value="重新获取" />
     </histories>
   </component>
   <component name="Settings">
