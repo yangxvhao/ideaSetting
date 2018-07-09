@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The dependencies of some of the beans in the application context form a cycle:" />
+      <item value="expected at least 1 bean which qualifies as autowire candidate." />
+      <item value="reply" />
+      <item value="Restore any inbound replyTo" />
       <item value="Temporary" />
       <item value="Pending Reply" />
       <item value="Pending" />
@@ -47,10 +51,6 @@
       <item value="A group has to be an interface. com.example.demo.dto.User is not" />
       <item value="Annotation indicating a method parameter should be bound to the body of the web request. * The body of the request is passed through an {@link HttpMessageConverter} to resolve the * method argument depending on the content type of the request. Optionally, automatic * validation can be applied by annotating the argument with {@code @Valid}. *" />
       <item value="argument type mismatch" />
-      <item value="use configuration classes provided 'org.apache.http.config'" />
-      <item value="cost" />
-      <item value="Correlation" />
-      <item value="服务" />
     </histories>
   </component>
   <component name="Settings">
