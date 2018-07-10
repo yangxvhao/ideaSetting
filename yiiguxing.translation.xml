@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="通话时长" />
+      <item value="通话次数" />
       <item value="dial" />
       <item value="次数" />
       <item value="通话" />
@@ -49,8 +51,6 @@
       <item value="未交保费" />
       <item value="保额" />
       <item value="保费" />
-      <item value="apply" />
-      <item value="投保人" />
     </histories>
   </component>
   <component name="Settings">
