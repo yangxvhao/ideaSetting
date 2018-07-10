@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dial" />
+      <item value="次数" />
+      <item value="通话" />
+      <item value="Analysis" />
       <item value="nested exception is java.lang.InstantiationException" />
       <item value="Is it an abstract class?" />
       <item value="Could not instantiate property type [" />
@@ -47,10 +51,6 @@
       <item value="保费" />
       <item value="apply" />
       <item value="投保人" />
-      <item value="被保险人" />
-      <item value="Connection reset" />
-      <item value="Abstract method 'run(O, E)' cannot be accessed directly" />
-      <item value="Abstract method 'run(O, E)' cannot be accessed directl" />
     </histories>
   </component>
   <component name="Settings">
