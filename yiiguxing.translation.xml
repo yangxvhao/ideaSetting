@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Not a statement" />
+      <item value="Not a statemen" />
       <item value="周" />
       <item value="近一月" />
       <item value="归属地" />
@@ -49,8 +51,6 @@
       <item value="resolve" />
       <item value="解析" />
       <item value="币种" />
-      <item value="销售的单位" />
-      <item value="销售单位" />
     </histories>
   </component>
   <component name="Settings">
