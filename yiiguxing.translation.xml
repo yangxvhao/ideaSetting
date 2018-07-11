@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="周" />
+      <item value="近一月" />
+      <item value="归属地" />
+      <item value="Variable expecte" />
       <item value="通话时长" />
       <item value="通话次数" />
       <item value="dial" />
@@ -47,10 +51,6 @@
       <item value="币种" />
       <item value="销售的单位" />
       <item value="销售单位" />
-      <item value="未缴保费" />
-      <item value="未交保费" />
-      <item value="保额" />
-      <item value="保费" />
     </histories>
   </component>
   <component name="Settings">
