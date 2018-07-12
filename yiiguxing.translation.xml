@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="LANDLINE" />
+      <item value="座机" />
+      <item value="香港" />
+      <item value="澳门" />
       <item value="Not a statement" />
       <item value="Not a statemen" />
       <item value="周" />
@@ -47,10 +51,6 @@
       <item value="正确" />
       <item value="验证码" />
       <item value="confirm No" />
-      <item value="RESOLVE" />
-      <item value="resolve" />
-      <item value="解析" />
-      <item value="币种" />
     </histories>
   </component>
   <component name="Settings">
