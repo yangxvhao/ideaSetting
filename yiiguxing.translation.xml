@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="计算比例" />
+      <item value="Rate" />
       <item value="本地通话" />
       <item value="接收" />
       <item value="A group has to be an interface. com.example.demo.dto.User is not" />
@@ -49,8 +51,6 @@
       <item value="whistle" />
       <item value="whil" />
       <item value="acquire" />
-      <item value="Coverage" />
-      <item value="保费" />
     </histories>
   </component>
   <component name="Settings">
