@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lease doesn't exist, registering resource:" />
+      <item value="because the pool has been closed." />
       <item value="计算比例" />
       <item value="Rate" />
       <item value="本地通话" />
@@ -49,8 +51,6 @@
       <item value="寿险" />
       <item value="Gender" />
       <item value="whistle" />
-      <item value="whil" />
-      <item value="acquire" />
     </histories>
   </component>
   <component name="Settings">
