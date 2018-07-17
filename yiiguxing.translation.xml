@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="handshake alert: unrecognized_name" />
+      <item value="题目" />
+      <item value="lease doesn't exist, registering resource:" />
+      <item value="because the pool has been closed." />
+      <item value="计算比例" />
+      <item value="Rate" />
+      <item value="本地通话" />
       <item value="接收" />
       <item value="A group has to be an interface. com.example.demo.dto.User is not" />
       <item value="Annotation indicating a method parameter should be bound to the body of the web request. * The body of the request is passed through an {@link HttpMessageConverter} to resolve the * method argument depending on the content type of the request. Optionally, automatic * validation can be applied by annotating the argument with {@code @Valid}. *" />
@@ -44,13 +51,6 @@
       <item value="Cannot read property 'productCode' of undefined" />
       <item value="Cannot read property 'lvl' of undefined" />
       <item value="寿险" />
-      <item value="Gender" />
-      <item value="whistle" />
-      <item value="whil" />
-      <item value="acquire" />
-      <item value="Coverage" />
-      <item value="保费" />
-      <item value="缴费期间" />
     </histories>
   </component>
   <component name="Settings">
