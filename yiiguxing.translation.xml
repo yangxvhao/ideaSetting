@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="handshake alert: unrecognized_name" />
+      <item value="题目" />
       <item value="lease doesn't exist, registering resource:" />
       <item value="because the pool has been closed." />
       <item value="计算比例" />
@@ -49,8 +51,6 @@
       <item value="Cannot read property 'productCode' of undefined" />
       <item value="Cannot read property 'lvl' of undefined" />
       <item value="寿险" />
-      <item value="Gender" />
-      <item value="whistle" />
     </histories>
   </component>
   <component name="Settings">
