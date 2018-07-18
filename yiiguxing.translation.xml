@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Empty test suite." />
       <item value="handshake alert: unrecognized_name" />
       <item value="题目" />
       <item value="lease doesn't exist, registering resource:" />
@@ -50,7 +51,6 @@
       <item value="保额" />
       <item value="Cannot read property 'productCode' of undefined" />
       <item value="Cannot read property 'lvl' of undefined" />
-      <item value="寿险" />
     </histories>
   </component>
   <component name="Settings">
