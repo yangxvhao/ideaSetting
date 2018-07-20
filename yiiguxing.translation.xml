@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deviation" />
       <item value="response time 50th percentile" />
       <item value="Request" />
       <item value="一键启动" />
@@ -50,7 +51,6 @@
       <item value="长度" />
       <item value="lenght" />
       <item value="lenghs" />
-      <item value="lengh" />
     </histories>
   </component>
   <component name="Settings">
