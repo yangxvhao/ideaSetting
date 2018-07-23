@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unpooled Heap" />
+      <item value="Unpooled Heap Byte Buf (" />
       <item value="deviation" />
       <item value="response time 50th percentile" />
       <item value="Request" />
@@ -49,8 +51,6 @@
       <item value="authorization" />
       <item value="receipent" />
       <item value="长度" />
-      <item value="lenght" />
-      <item value="lenghs" />
     </histories>
   </component>
   <component name="Settings">
