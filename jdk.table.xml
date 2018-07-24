@@ -1,0 +1,247 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_151&quot;" />
+      <homePath value="$USER_HOME$/soft/jdk1.8.0_151" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/soft/jdk1.8.0_151/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/soft/jdk1.8.0_151/jre/lib/deploy.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/soft/jdk1.8.0_151/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/soft/jdk1.8.0_151/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/soft/jdk1.8.0_151/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/soft/jdk1.8.0_151/jre/lib/ext/jfxrt.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/soft/jdk1.8.0_151/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/soft/jdk1.8.0_151/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/soft/jdk1.8.0_151/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/soft/jdk1.8.0_151/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/soft/jdk1.8.0_151/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/soft/jdk1.8.0_151/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/soft/jdk1.8.0_151/jre/lib/javaws.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/soft/jdk1.8.0_151/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/soft/jdk1.8.0_151/jre/lib/jfr.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/soft/jdk1.8.0_151/jre/lib/jfxswt.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/soft/jdk1.8.0_151/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/soft/jdk1.8.0_151/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/soft/jdk1.8.0_151/jre/lib/plugin.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/soft/jdk1.8.0_151/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/soft/jdk1.8.0_151/jre/lib/rt.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/soft/jdk1.8.0_151/src.zip!/" type="simple" />
+            <root url="jar://$USER_HOME$/soft/jdk1.8.0_151/javafx-src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (app-download-install)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="$USER_HOME$/IdeaProjects/app-download-install/venv/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/IdeaProjects/app-download-install/venv/lib/python3.6/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/IdeaProjects/app-download-install/venv/lib/python3.6/site-packages/setuptools-28.8.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/IdeaProjects/app-download-install/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/-884085516" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 27 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;1.8.0_151&quot;" />
+      <homePath value="$USER_HOME$/soft/android-sdk-linux" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/soft/android-sdk-linux/platforms/android-27/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/soft/android-sdk-linux/platforms/android-27/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/soft/android-sdk-linux/sources/android-27" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="1.8" sdk="android-27" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 23 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;1.8.0_151&quot;" />
+      <homePath value="$USER_HOME$/soft/android-sdk-linux" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/soft/android-sdk-linux/platforms/android-23/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/soft/android-sdk-linux/platforms/android-23/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="http://developer.android.com/reference/" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional jdk="1.8" sdk="android-23" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (execl-collect-tool)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="$USER_HOME$/IdeaProjects/execl-collect-tool/env/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/IdeaProjects/execl-collect-tool/env/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/IdeaProjects/execl-collect-tool/env/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///usr/lib64/python3.6" type="simple" />
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/IdeaProjects/execl-collect-tool/env/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/1341541507" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 26 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;1.8.0_151&quot;" />
+      <homePath value="$USER_HOME$/soft/android-sdk-linux" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/soft/android-sdk-linux/platforms/android-26/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/soft/android-sdk-linux/platforms/android-26/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="http://developer.android.com/reference/" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional jdk="1.8" sdk="android-26" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (data_export)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.5" />
+      <homePath value="$USER_HOME$/IdeaProjects/data_export/env/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/IdeaProjects/data_export/env/lib/python3.6/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/IdeaProjects/data_export/env/lib/python3.6/site-packages/setuptools-28.8.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/IdeaProjects/data_export/env/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/-1243240783" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/IdeaProjects/data_export" />
+    </jdk>
+  </component>
+</application>

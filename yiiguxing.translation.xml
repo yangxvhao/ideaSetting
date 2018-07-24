@@ -1,0 +1,56 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Unpooled Heap" />
+      <item value="Unpooled Heap Byte Buf (" />
+      <item value="deviation" />
+      <item value="response time 50th percentile" />
+      <item value="Request" />
+      <item value="一键启动" />
+      <item value="Empty test suite." />
+      <item value="handshake alert: unrecognized_name" />
+      <item value="题目" />
+      <item value="lease doesn't exist, registering resource:" />
+      <item value="because the pool has been closed." />
+      <item value="计算比例" />
+      <item value="Rate" />
+      <item value="本地通话" />
+      <item value="接收" />
+      <item value="A group has to be an interface. com.example.demo.dto.User is not" />
+      <item value="Annotation indicating a method parameter should be bound to the body of the web request. * The body of the request is passed through an {@link HttpMessageConverter} to resolve the * method argument depending on the content type of the request. Optionally, automatic * validation can be applied by annotating the argument with {@code @Valid}. *" />
+      <item value="argument type mismatch" />
+      <item value="use configuration classes provided 'org.apache.http.config'" />
+      <item value="cost" />
+      <item value="Correlation" />
+      <item value="服务" />
+      <item value="exchange" />
+      <item value="reverse" />
+      <item value="sentinel" />
+      <item value="Async" />
+      <item value="重新获取" />
+      <item value="token not a valied jwt token" />
+      <item value="could not be resolved" />
+      <item value="cannot assign instance of java.lang.Integer to field com.alpha.business.common.model.insurance.rabbitqrequest.LifeQuoteRequest.insuredAmount of type java.lang.Long in instance of com.alpha.business.common.model.insurance.rabbitqrequest.LifeQuoteRequest" />
+      <item value="cannot assign instance of" />
+      <item value="正常" />
+      <item value="Resolver" />
+      <item value="Argument" />
+      <item value="Strategy interface for resolving method parameters into argument values in * the context of a given request." />
+      <item value="Trace" />
+      <item value=" Aggregator projects " />
+      <item value="Cannot determine embedded database driver class for database type NONE" />
+      <item value="职业" />
+      <item value="OCCTYPE" />
+      <item value="_init__() takes 3 positional arguments but 4 were given" />
+      <item value="send_email() takes from 3 to 4 positional arguments but 6 were given" />
+      <item value="attachment" />
+      <item value="附件" />
+      <item value="正文" />
+      <item value="Injection of resource dependencies failed" />
+      <item value="expected at least 1 bean which qualifies as autowire candidate." />
+      <item value="authorization" />
+      <item value="receipent" />
+      <item value="长度" />
+    </histories>
+  </component>
+</application>
