@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="中位" />
+      <item value="中位数" />
       <item value="Unpooled Heap" />
       <item value="Unpooled Heap Byte Buf (" />
       <item value="deviation" />
@@ -49,8 +51,6 @@
       <item value="Injection of resource dependencies failed" />
       <item value="expected at least 1 bean which qualifies as autowire candidate." />
       <item value="authorization" />
-      <item value="receipent" />
-      <item value="长度" />
     </histories>
   </component>
 </application>
