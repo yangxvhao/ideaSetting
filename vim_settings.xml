@@ -1,0 +1,46 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1524308147757">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1524394625717">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1524394727300">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/execl-collect-tool/main/collect.py" timestamp="1524395251023">
+        <mark key="'" line="34" column="42" />
+        <mark key="[" line="7" column="10" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1524395095065">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="33" column="42" filename="$USER_HOME$/IdeaProjects/execl-collect-tool/main/collect.py" />
+    </jumps>
+    <registers />
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
