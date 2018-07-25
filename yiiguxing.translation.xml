@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Repository" />
+      <item value="delegate" />
+      <item value="Decorator" />
       <item value="中位" />
       <item value="中位数" />
       <item value="Unpooled Heap" />
@@ -48,9 +51,6 @@
       <item value="attachment" />
       <item value="附件" />
       <item value="正文" />
-      <item value="Injection of resource dependencies failed" />
-      <item value="expected at least 1 bean which qualifies as autowire candidate." />
-      <item value="authorization" />
     </histories>
   </component>
 </application>
