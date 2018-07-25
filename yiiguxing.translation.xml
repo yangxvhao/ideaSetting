@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unpooled Heap" />
+      <item value="Unpooled Heap Byte Buf (" />
+      <item value="deviation" />
+      <item value="response time 50th percentile" />
+      <item value="Request" />
+      <item value="一键启动" />
+      <item value="Empty test suite." />
       <item value="handshake alert: unrecognized_name" />
       <item value="题目" />
       <item value="lease doesn't exist, registering resource:" />
@@ -44,16 +51,6 @@
       <item value="authorization" />
       <item value="receipent" />
       <item value="长度" />
-      <item value="lenght" />
-      <item value="lenghs" />
-      <item value="lengh" />
-      <item value="保额" />
-      <item value="Cannot read property 'productCode' of undefined" />
-      <item value="Cannot read property 'lvl' of undefined" />
-      <item value="寿险" />
     </histories>
-  </component>
-  <component name="Settings">
-    <option name="autoSelectionMode" value="EXCLUSIVE" />
   </component>
 </application>

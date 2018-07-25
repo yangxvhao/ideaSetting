@@ -12,7 +12,6 @@
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="export1.sql" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
