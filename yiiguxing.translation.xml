@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inclusive" />
       <item value="decision" />
       <item value="floor" />
       <item value="available" />
@@ -50,7 +51,6 @@
       <item value="Cannot determine embedded database driver class for database type NONE" />
       <item value="职业" />
       <item value="OCCTYPE" />
-      <item value="_init__() takes 3 positional arguments but 4 were given" />
     </histories>
   </component>
 </application>
