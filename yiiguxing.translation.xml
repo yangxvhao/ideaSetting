@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="insurance" />
+      <item value="check" />
+      <item value="deliver" />
       <item value="Failed to read artifact descriptor for" />
       <item value="No converter found capable of converting from type" />
       <item value="GlobalConfigUtils setMetaData Fail" />
@@ -48,9 +51,6 @@
       <item value="正常" />
       <item value="Resolver" />
       <item value="Argument" />
-      <item value="Strategy interface for resolving method parameters into argument values in * the context of a given request." />
-      <item value="Trace" />
-      <item value=" Aggregator projects " />
     </histories>
   </component>
 </application>
