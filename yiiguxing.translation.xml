@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="com.alibaba.fastjson.JSONObject cannot be cast to java.util.List" />
       <item value="insurance" />
       <item value="check" />
       <item value="deliver" />
@@ -50,7 +51,6 @@
       <item value="cannot assign instance of" />
       <item value="正常" />
       <item value="Resolver" />
-      <item value="Argument" />
     </histories>
   </component>
 </application>
