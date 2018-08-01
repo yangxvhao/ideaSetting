@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Transaction" />
       <item value="analysis" />
       <item value="if you wish to continue please disable validation." />
       <item value="projection" />
@@ -50,7 +51,6 @@
       <item value="重新获取" />
       <item value="token not a valied jwt token" />
       <item value="could not be resolved" />
-      <item value="cannot assign instance of java.lang.Integer to field com.alpha.business.common.model.insurance.rabbitqrequest.LifeQuoteRequest.insuredAmount of type java.lang.Long in instance of com.alpha.business.common.model.insurance.rabbitqrequest.LifeQuoteRequest" />
     </histories>
   </component>
 </application>
