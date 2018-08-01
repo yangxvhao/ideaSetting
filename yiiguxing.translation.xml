@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="projection" />
       <item value="com.alibaba.fastjson.JSONObject cannot be cast to java.util.List" />
       <item value="insurance" />
       <item value="check" />
@@ -50,7 +51,6 @@
       <item value="cannot assign instance of java.lang.Integer to field com.alpha.business.common.model.insurance.rabbitqrequest.LifeQuoteRequest.insuredAmount of type java.lang.Long in instance of com.alpha.business.common.model.insurance.rabbitqrequest.LifeQuoteRequest" />
       <item value="cannot assign instance of" />
       <item value="正常" />
-      <item value="Resolver" />
     </histories>
   </component>
 </application>
