@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="逾期" />
       <item value="source" />
       <item value="target" />
       <item value="贷后" />
@@ -50,7 +51,6 @@
       <item value="exchange" />
       <item value="reverse" />
       <item value="sentinel" />
-      <item value="Async" />
     </histories>
   </component>
 </application>
