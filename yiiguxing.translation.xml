@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="正常" />
       <item value="上个月" />
       <item value="deliver" />
       <item value="de" />
@@ -50,7 +51,6 @@
       <item value="use configuration classes provided 'org.apache.http.config'" />
       <item value="cost" />
       <item value="Correlation" />
-      <item value="服务" />
     </histories>
   </component>
 </application>
