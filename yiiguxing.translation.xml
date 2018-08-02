@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="贷后" />
       <item value="Transaction" />
       <item value="analysis" />
       <item value="if you wish to continue please disable validation." />
@@ -50,7 +51,6 @@
       <item value="Async" />
       <item value="重新获取" />
       <item value="token not a valied jwt token" />
-      <item value="could not be resolved" />
     </histories>
   </component>
 </application>
