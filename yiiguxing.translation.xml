@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="source" />
+      <item value="target" />
       <item value="贷后" />
       <item value="Transaction" />
       <item value="analysis" />
@@ -49,8 +51,6 @@
       <item value="reverse" />
       <item value="sentinel" />
       <item value="Async" />
-      <item value="重新获取" />
-      <item value="token not a valied jwt token" />
     </histories>
   </component>
 </application>
