@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No converter found capable of converting from type" />
+      <item value="GlobalConfigUtils setMetaData Fail" />
+      <item value="inclusive" />
+      <item value="decision" />
+      <item value="floor" />
+      <item value="available" />
+      <item value="was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced -&gt; [Help 1] " />
+      <item value="Repository" />
+      <item value="delegate" />
+      <item value="Decorator" />
+      <item value="中位" />
+      <item value="中位数" />
       <item value="Unpooled Heap" />
       <item value="Unpooled Heap Byte Buf (" />
       <item value="deviation" />
@@ -39,18 +51,6 @@
       <item value="Trace" />
       <item value=" Aggregator projects " />
       <item value="Cannot determine embedded database driver class for database type NONE" />
-      <item value="职业" />
-      <item value="OCCTYPE" />
-      <item value="_init__() takes 3 positional arguments but 4 were given" />
-      <item value="send_email() takes from 3 to 4 positional arguments but 6 were given" />
-      <item value="attachment" />
-      <item value="附件" />
-      <item value="正文" />
-      <item value="Injection of resource dependencies failed" />
-      <item value="expected at least 1 bean which qualifies as autowire candidate." />
-      <item value="authorization" />
-      <item value="receipent" />
-      <item value="长度" />
     </histories>
   </component>
 </application>
