@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Branch" />
       <item value="正常" />
       <item value="上个月" />
       <item value="deliver" />
@@ -50,7 +51,6 @@
       <item value="argument type mismatch" />
       <item value="use configuration classes provided 'org.apache.http.config'" />
       <item value="cost" />
-      <item value="Correlation" />
     </histories>
   </component>
 </application>
