@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="endpoints" />
+      <item value="Resolving eureka endpoints via configuration" />
       <item value="The replica size seems to be empty" />
       <item value="Load balancer does not have available server for client" />
       <item value="replication" />
@@ -49,8 +51,6 @@
       <item value="because the pool has been closed." />
       <item value="计算比例" />
       <item value="Rate" />
-      <item value="本地通话" />
-      <item value="接收" />
     </histories>
   </component>
 </application>
