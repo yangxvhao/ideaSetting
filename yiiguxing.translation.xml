@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="distinct" />
       <item value="endpoints" />
       <item value="Resolving eureka endpoints via configuration" />
       <item value="The replica size seems to be empty" />
@@ -50,7 +51,6 @@
       <item value="lease doesn't exist, registering resource:" />
       <item value="because the pool has been closed." />
       <item value="计算比例" />
-      <item value="Rate" />
     </histories>
   </component>
 </application>
