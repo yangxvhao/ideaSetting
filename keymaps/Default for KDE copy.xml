@@ -1,4 +1,7 @@
 <keymap version="1" name="Default for KDE copy" parent="Default for KDE">
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt semicolon" />
   </action>
