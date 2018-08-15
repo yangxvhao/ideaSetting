@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cancel" />
+      <item value="发货订单数" />
+      <item value="发货" />
+      <item value="审批" />
+      <item value="approval" />
+      <item value="风控" />
+      <item value="风控审批详情" />
+      <item value="通过率" />
       <item value="订单数" />
       <item value="总单数" />
       <item value="类型" />
@@ -21,7 +29,6 @@
       <item value="上个月" />
       <item value="deliver" />
       <item value="de" />
-      <item value="发货" />
       <item value="逾期" />
       <item value="source" />
       <item value="target" />
@@ -44,13 +51,6 @@
       <item value="Repository" />
       <item value="delegate" />
       <item value="Decorator" />
-      <item value="中位" />
-      <item value="中位数" />
-      <item value="Unpooled Heap" />
-      <item value="Unpooled Heap Byte Buf (" />
-      <item value="deviation" />
-      <item value="response time 50th percentile" />
-      <item value="Request" />
     </histories>
   </component>
 </application>
