@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="保险" />
+      <item value="渠道" />
+      <item value="risk" />
       <item value="cancel" />
       <item value="发货订单数" />
       <item value="发货" />
@@ -12,7 +15,6 @@
       <item value="订单数" />
       <item value="总单数" />
       <item value="类型" />
-      <item value="risk" />
       <item value="贷前" />
       <item value="queue" />
       <item value="Merge made by the 'recursive' strategy." />
@@ -49,8 +51,6 @@
       <item value="available" />
       <item value="was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced -&gt; [Help 1] " />
       <item value="Repository" />
-      <item value="delegate" />
-      <item value="Decorator" />
     </histories>
   </component>
 </application>
