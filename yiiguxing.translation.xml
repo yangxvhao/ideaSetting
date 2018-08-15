@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="贷前" />
       <item value="queue" />
       <item value="Merge made by the 'recursive' strategy." />
       <item value="distinct" />
@@ -50,7 +51,6 @@
       <item value="Empty test suite." />
       <item value="handshake alert: unrecognized_name" />
       <item value="题目" />
-      <item value="lease doesn't exist, registering resource:" />
     </histories>
   </component>
 </application>
