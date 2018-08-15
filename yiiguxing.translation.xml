@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="订单数" />
+      <item value="总单数" />
+      <item value="类型" />
+      <item value="risk" />
       <item value="贷前" />
       <item value="queue" />
       <item value="Merge made by the 'recursive' strategy." />
@@ -47,10 +51,6 @@
       <item value="deviation" />
       <item value="response time 50th percentile" />
       <item value="Request" />
-      <item value="一键启动" />
-      <item value="Empty test suite." />
-      <item value="handshake alert: unrecognized_name" />
-      <item value="题目" />
     </histories>
   </component>
 </application>
