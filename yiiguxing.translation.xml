@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="逾期" />
       <item value="保险" />
       <item value="渠道" />
       <item value="risk" />
@@ -31,7 +32,6 @@
       <item value="上个月" />
       <item value="deliver" />
       <item value="de" />
-      <item value="逾期" />
       <item value="source" />
       <item value="target" />
       <item value="贷后" />
