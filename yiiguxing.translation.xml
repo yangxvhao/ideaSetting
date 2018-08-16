@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="abnormal" />
+      <item value="异常" />
       <item value="Analysis" />
       <item value="计算" />
       <item value="统计" />
@@ -49,8 +51,6 @@
       <item value="Failed to read artifact descriptor for" />
       <item value="No converter found capable of converting from type" />
       <item value="GlobalConfigUtils setMetaData Fail" />
-      <item value="inclusive" />
-      <item value="decision" />
     </histories>
   </component>
 </application>
