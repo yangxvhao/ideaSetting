@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Analysis" />
+      <item value="计算" />
+      <item value="统计" />
+      <item value="统计计算数据" />
       <item value="逾期" />
       <item value="保险" />
       <item value="渠道" />
@@ -47,10 +51,6 @@
       <item value="GlobalConfigUtils setMetaData Fail" />
       <item value="inclusive" />
       <item value="decision" />
-      <item value="floor" />
-      <item value="available" />
-      <item value="was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced -&gt; [Help 1] " />
-      <item value="Repository" />
     </histories>
   </component>
 </application>
