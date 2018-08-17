@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="四位" />
+      <item value="denominator" />
+      <item value="numerator" />
+      <item value="分母" />
+      <item value="分子" />
+      <item value="百分比" />
       <item value="abnormal" />
       <item value="异常" />
       <item value="Analysis" />
@@ -45,12 +51,6 @@
       <item value="analysis" />
       <item value="if you wish to continue please disable validation." />
       <item value="projection" />
-      <item value="com.alibaba.fastjson.JSONObject cannot be cast to java.util.List" />
-      <item value="insurance" />
-      <item value="check" />
-      <item value="Failed to read artifact descriptor for" />
-      <item value="No converter found capable of converting from type" />
-      <item value="GlobalConfigUtils setMetaData Fail" />
     </histories>
   </component>
 </application>
