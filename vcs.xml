@@ -106,6 +106,10 @@
           <option name="url" value="https://github.com/get-set/get-reactive.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.finlink.net.cn:decision-platform/decisionplatform.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
