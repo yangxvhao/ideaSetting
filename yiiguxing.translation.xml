@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="审批" />
+      <item value="Method 'analysis' is too complex to analyze by data flow algorithm less... (Ctrl+1)  This inspection analyzes method control and data flow to report possible conditions that are always true or false, expressions whose value is statically proven to be constant, and situations that can lead to nullability contract violations" />
+      <item value="analysis" />
       <item value="四位" />
       <item value="denominator" />
       <item value="numerator" />
@@ -20,7 +23,6 @@
       <item value="cancel" />
       <item value="发货订单数" />
       <item value="发货" />
-      <item value="审批" />
       <item value="approval" />
       <item value="风控" />
       <item value="风控审批详情" />
@@ -48,9 +50,7 @@
       <item value="target" />
       <item value="贷后" />
       <item value="Transaction" />
-      <item value="analysis" />
       <item value="if you wish to continue please disable validation." />
-      <item value="projection" />
     </histories>
   </component>
 </application>
