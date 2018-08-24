@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The annotated element must not be {@code null} and must contain at least one * non-whitespace character. Accepts {@code CharSequence}." />
+      <item value="length of character sequence is evaluated" />
+      <item value="evaluated" />
+      <item value="sequence" />
+      <item value="character" />
+      <item value="Accepts any type." />
+      <item value="The annotated element must not be {@code null}" />
       <item value="审批" />
       <item value="Method 'analysis' is too complex to analyze by data flow algorithm less... (Ctrl+1)  This inspection analyzes method control and data flow to report possible conditions that are always true or false, expressions whose value is statically proven to be constant, and situations that can lead to nullability contract violations" />
       <item value="analysis" />
@@ -44,13 +51,6 @@
       <item value="Branch" />
       <item value="正常" />
       <item value="上个月" />
-      <item value="deliver" />
-      <item value="de" />
-      <item value="source" />
-      <item value="target" />
-      <item value="贷后" />
-      <item value="Transaction" />
-      <item value="if you wish to continue please disable validation." />
     </histories>
   </component>
 </application>
