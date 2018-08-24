@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="convert" />
+      <item value="转化" />
       <item value="The annotated element must not be {@code null} and must contain at least one * non-whitespace character. Accepts {@code CharSequence}." />
       <item value="length of character sequence is evaluated" />
       <item value="evaluated" />
@@ -49,8 +51,6 @@
       <item value="constraint" />
       <item value="No validator could be found for constraint" />
       <item value="Branch" />
-      <item value="正常" />
-      <item value="上个月" />
     </histories>
   </component>
 </application>
