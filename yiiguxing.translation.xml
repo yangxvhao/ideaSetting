@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invalid maximum heap size" />
       <item value="convert" />
       <item value="转化" />
       <item value="The annotated element must not be {@code null} and must contain at least one * non-whitespace character. Accepts {@code CharSequence}." />
@@ -50,7 +51,6 @@
       <item value="replication" />
       <item value="constraint" />
       <item value="No validator could be found for constraint" />
-      <item value="Branch" />
     </histories>
   </component>
 </application>
