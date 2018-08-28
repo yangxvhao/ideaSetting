@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="at the top of the minute - the 0th second" />
+      <item value="an expression that can be parsed to a cron schedule" />
+      <item value="A cron-like expression," />
+      <item value="trigger" />
+      <item value="Support for specifying both a day-of-week AND a day-of-month parameter is not implemented." />
+      <item value="分组" />
       <item value="属性求和" />
       <item value="greater Than" />
       <item value="as well as" />
@@ -45,12 +51,6 @@
       <item value="通过率" />
       <item value="订单数" />
       <item value="总单数" />
-      <item value="类型" />
-      <item value="贷前" />
-      <item value="queue" />
-      <item value="Merge made by the 'recursive' strategy." />
-      <item value="distinct" />
-      <item value="endpoints" />
     </histories>
   </component>
 </application>
