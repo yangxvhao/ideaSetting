@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="as well as" />
+      <item value="the second as well as minute" />
+      <item value="A cron-like expression, extending the usual UN*X definition to include * triggers on the second as well as minute, hour, day of month, month * and day of week." />
+      <item value="triggers" />
       <item value="Invalid maximum heap size" />
       <item value="convert" />
       <item value="转化" />
@@ -47,10 +51,6 @@
       <item value="endpoints" />
       <item value="Resolving eureka endpoints via configuration" />
       <item value="The replica size seems to be empty" />
-      <item value="Load balancer does not have available server for client" />
-      <item value="replication" />
-      <item value="constraint" />
-      <item value="No validator could be found for constraint" />
     </histories>
   </component>
 </application>
