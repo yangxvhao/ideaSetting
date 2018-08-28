@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="属性求和" />
       <item value="greater Than" />
       <item value="as well as" />
       <item value="the second as well as minute" />
@@ -50,7 +51,6 @@
       <item value="Merge made by the 'recursive' strategy." />
       <item value="distinct" />
       <item value="endpoints" />
-      <item value="Resolving eureka endpoints via configuration" />
     </histories>
   </component>
 </application>
