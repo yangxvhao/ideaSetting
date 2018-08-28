@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="greater Than" />
       <item value="as well as" />
       <item value="the second as well as minute" />
       <item value="A cron-like expression, extending the usual UN*X definition to include * triggers on the second as well as minute, hour, day of month, month * and day of week." />
@@ -50,7 +51,6 @@
       <item value="distinct" />
       <item value="endpoints" />
       <item value="Resolving eureka endpoints via configuration" />
-      <item value="The replica size seems to be empty" />
     </histories>
   </component>
 </application>
