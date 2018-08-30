@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="necessary" />
       <item value="at the top of the minute - the 0th second" />
       <item value="an expression that can be parsed to a cron schedule" />
       <item value="A cron-like expression," />
@@ -50,7 +51,6 @@
       <item value="风控审批详情" />
       <item value="通过率" />
       <item value="订单数" />
-      <item value="总单数" />
     </histories>
   </component>
 </application>
