@@ -46,13 +46,13 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="Python 3.6 (data_export) interpreter library">
+    <library name="Python 3.7 (env) interpreter library">
       <CLASSES>
-        <root url="file:///usr/lib/python3.6" />
-        <root url="file:///usr/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/IdeaProjects/data_export/env/lib/python3.6/site-packages" />
-        <root url="jar://$USER_HOME$/IdeaProjects/data_export/env/lib/python3.6/site-packages/setuptools-28.8.0-py3.6.egg!/" />
-        <root url="file://$USER_HOME$/IdeaProjects/data_export/env/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg" />
+        <root url="file:///usr/lib/python3.7" />
+        <root url="file:///usr/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/IdeaProjects/data_export/env/lib/python3.7/site-packages" />
+        <root url="jar://$USER_HOME$/IdeaProjects/data_export/env/lib/python3.7/site-packages/setuptools-28.8.0-py3.7.egg!/" />
+        <root url="file://$USER_HOME$/IdeaProjects/data_export/env/lib/python3.7/site-packages/pip-9.0.1-py3.7.egg" />
         <root url="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/-1243240783" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
@@ -66,49 +66,12 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file:///usr/lib/python3.6" />
-        <root url="file:///usr/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/IdeaProjects/data_export/env/lib/python3.6/site-packages" />
-        <root url="jar://$USER_HOME$/IdeaProjects/data_export/env/lib/python3.6/site-packages/setuptools-28.8.0-py3.6.egg!/" />
-        <root url="file://$USER_HOME$/IdeaProjects/data_export/env/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg" />
+        <root url="file:///usr/lib/python3.7" />
+        <root url="file:///usr/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/IdeaProjects/data_export/env/lib/python3.7/site-packages" />
+        <root url="jar://$USER_HOME$/IdeaProjects/data_export/env/lib/python3.7/site-packages/setuptools-28.8.0-py3.7.egg!/" />
+        <root url="file://$USER_HOME$/IdeaProjects/data_export/env/lib/python3.7/site-packages/pip-9.0.1-py3.7.egg" />
         <root url="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/-1243240783" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.6 (execl-collect-tool) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/IdeaProjects/execl-collect-tool/env/lib/python3.6" />
-        <root url="file://$USER_HOME$/IdeaProjects/execl-collect-tool/env/lib/python3.6/lib-dynload" />
-        <root url="file:///usr/lib64/python3.6" />
-        <root url="file:///usr/lib/python3.6" />
-        <root url="file://$USER_HOME$/IdeaProjects/execl-collect-tool/env/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/1341541507" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/IdeaProjects/execl-collect-tool/env/lib/python3.6" />
-        <root url="file://$USER_HOME$/IdeaProjects/execl-collect-tool/env/lib/python3.6/lib-dynload" />
-        <root url="file:///usr/lib64/python3.6" />
-        <root url="file:///usr/lib/python3.6" />
-        <root url="file://$USER_HOME$/IdeaProjects/execl-collect-tool/env/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/1341541507" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
