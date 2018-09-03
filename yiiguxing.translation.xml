@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="通话次数" />
+      <item value="通话时长" />
+      <item value="peer Number" />
+      <item value="联系人" />
+      <item value="Contact" />
       <item value="Cut Dummy" />
       <item value="necessary" />
       <item value="at the top of the minute - the 0th second" />
@@ -46,11 +51,6 @@
       <item value="risk" />
       <item value="cancel" />
       <item value="发货订单数" />
-      <item value="发货" />
-      <item value="approval" />
-      <item value="风控" />
-      <item value="风控审批详情" />
-      <item value="通过率" />
     </histories>
   </component>
 </application>
