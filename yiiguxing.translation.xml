@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reversed" />
       <item value="通话次数" />
       <item value="通话时长" />
       <item value="peer Number" />
@@ -50,7 +51,6 @@
       <item value="渠道" />
       <item value="risk" />
       <item value="cancel" />
-      <item value="发货订单数" />
     </histories>
   </component>
 </application>
