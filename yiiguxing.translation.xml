@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The port may already be in use or the connector may be misconfigured." />
+      <item value="Land Line" />
       <item value="reversed" />
       <item value="通话次数" />
       <item value="通话时长" />
@@ -49,8 +51,6 @@
       <item value="逾期" />
       <item value="保险" />
       <item value="渠道" />
-      <item value="risk" />
-      <item value="cancel" />
     </histories>
   </component>
 </application>
