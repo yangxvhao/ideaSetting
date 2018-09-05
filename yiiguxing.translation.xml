@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Composite Predicate" />
+      <item value="A rule that uses the a {@link CompositePredicate} to filter servers based on zone and availability." />
       <item value="INACTIVE" />
       <item value="The port may already be in use or the connector may be misconfigured." />
       <item value="Land Line" />
@@ -49,8 +51,6 @@
       <item value="计算" />
       <item value="统计" />
       <item value="统计计算数据" />
-      <item value="逾期" />
-      <item value="保险" />
     </histories>
   </component>
 </application>
