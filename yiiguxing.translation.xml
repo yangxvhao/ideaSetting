@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stonse" />
+      <item value="A typical * loadbalancer minimally need a set of servers to loadbalance for, a method to * mark a particular server to be out of rotation and a call that will choose a * server from the existing list of server." />
+      <item value="rotation" />
+      <item value="particular" />
+      <item value="minimally" />
+      <item value="loadbalancer" />
+      <item value="version" />
+      <item value="typical" />
+      <item value="Interface that defines the operations for a software loadbalancer." />
       <item value="Candidates" />
       <item value="The readLock should be free unless an addServer operation is * going on." />
       <item value="The readLock should be free unless an addServer operation is * going on..." />
@@ -42,15 +51,6 @@
       <item value="evaluated" />
       <item value="sequence" />
       <item value="character" />
-      <item value="Accepts any type." />
-      <item value="The annotated element must not be {@code null}" />
-      <item value="审批" />
-      <item value="Method 'analysis' is too complex to analyze by data flow algorithm less... (Ctrl+1)  This inspection analyzes method control and data flow to report possible conditions that are always true or false, expressions whose value is statically proven to be constant, and situations that can lead to nullability contract violations" />
-      <item value="analysis" />
-      <item value="四位" />
-      <item value="denominator" />
-      <item value="numerator" />
-      <item value="分母" />
     </histories>
   </component>
 </application>
