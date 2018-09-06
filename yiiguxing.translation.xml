@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Candidates" />
+      <item value="The readLock should be free unless an addServer operation is * going on." />
+      <item value="The readLock should be free unless an addServer operation is * going on..." />
+      <item value="Class that contains the mechanism to &quot;ping&quot; all the instances" />
       <item value="Resolving eureka endpoints via configuration" />
       <item value="Could not locate PropertySource" />
       <item value="Running the evict task with compensationTime" />
@@ -47,10 +51,6 @@
       <item value="denominator" />
       <item value="numerator" />
       <item value="分母" />
-      <item value="分子" />
-      <item value="百分比" />
-      <item value="abnormal" />
-      <item value="异常" />
     </histories>
   </component>
 </application>
