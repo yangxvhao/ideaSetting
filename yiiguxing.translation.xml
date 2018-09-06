@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Resolving eureka endpoints via configuration" />
+      <item value="Could not locate PropertySource" />
+      <item value="Running the evict task with compensationTime" />
+      <item value="Getting all instance registry info from the eureka server" />
       <item value="Composite Predicate" />
       <item value="A rule that uses the a {@link CompositePredicate} to filter servers based on zone and availability." />
       <item value="INACTIVE" />
@@ -47,10 +51,6 @@
       <item value="百分比" />
       <item value="abnormal" />
       <item value="异常" />
-      <item value="Analysis" />
-      <item value="计算" />
-      <item value="统计" />
-      <item value="统计计算数据" />
     </histories>
   </component>
 </application>
