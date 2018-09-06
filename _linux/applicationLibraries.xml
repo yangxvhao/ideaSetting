@@ -83,6 +83,43 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Python 3.7 (operator-model-web) interpreter library">
+      <CLASSES>
+        <root url="file:///usr/lib/python3.7" />
+        <root url="file:///usr/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/IdeaProjects/operator-model-web/env/lib/python3.7/site-packages" />
+        <root url="jar://$USER_HOME$/IdeaProjects/operator-model-web/env/lib/python3.7/site-packages/setuptools-28.8.0-py3.7.egg!/" />
+        <root url="file://$USER_HOME$/IdeaProjects/operator-model-web/env/lib/python3.7/site-packages/pip-9.0.1-py3.7.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/72154985" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/lib/python3.7" />
+        <root url="file:///usr/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/IdeaProjects/operator-model-web/env/lib/python3.7/site-packages" />
+        <root url="jar://$USER_HOME$/IdeaProjects/operator-model-web/env/lib/python3.7/site-packages/setuptools-28.8.0-py3.7.egg!/" />
+        <root url="file://$USER_HOME$/IdeaProjects/operator-model-web/env/lib/python3.7/site-packages/pip-9.0.1-py3.7.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/72154985" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="scala-sdk-2.12.6" type="Scala">
       <properties>
         <compiler-classpath>
