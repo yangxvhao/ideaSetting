@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The most well known and basic load balancing strategy, i.e. Round Robin Rule." />
+      <item value="next Server Cyclic Counter" />
+      <item value="Inspired by the implementation of" />
+      <item value="yield" />
+      <item value="Modulo" />
+      <item value="daemon" />
+      <item value="Assignment" />
+      <item value="for example, element at index 2 holds the sum of weight of servers from 0 to 2" />
+      <item value="holds the accumulated weight from index 0 to current index" />
+      <item value="accumulated" />
+      <item value="Rule that use the average/percentile response times * to assign dynamic &quot;weights&quot; per Server which is then used in * the &quot;Weighted Round Robin&quot; fashion." />
       <item value="Strategy" />
       <item value="equivalent" />
       <item value="available" />
@@ -40,17 +51,6 @@
       <item value="at the top of the minute - the 0th second" />
       <item value="an expression that can be parsed to a cron schedule" />
       <item value="A cron-like expression," />
-      <item value="trigger" />
-      <item value="Support for specifying both a day-of-week AND a day-of-month parameter is not implemented." />
-      <item value="分组" />
-      <item value="属性求和" />
-      <item value="greater Than" />
-      <item value="as well as" />
-      <item value="the second as well as minute" />
-      <item value="A cron-like expression, extending the usual UN*X definition to include * triggers on the second as well as minute, hour, day of month, month * and day of week." />
-      <item value="triggers" />
-      <item value="Invalid maximum heap size" />
-      <item value="convert" />
     </histories>
   </component>
 </application>
