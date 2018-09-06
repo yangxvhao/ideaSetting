@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="yield" />
+      <item value="No up servers available from load balancer" />
       <item value="The most well known and basic load balancing strategy, i.e. Round Robin Rule." />
       <item value="next Server Cyclic Counter" />
       <item value="Inspired by the implementation of" />
-      <item value="yield" />
       <item value="Modulo" />
       <item value="daemon" />
       <item value="Assignment" />
@@ -50,7 +51,6 @@
       <item value="necessary" />
       <item value="at the top of the minute - the 0th second" />
       <item value="an expression that can be parsed to a cron schedule" />
-      <item value="A cron-like expression," />
     </histories>
   </component>
 </application>
