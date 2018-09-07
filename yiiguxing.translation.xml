@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="no suitable HttpMessageConverter found for response type" />
+      <item value="specified" />
       <item value="org . springframework . cloud" />
       <item value="yield" />
       <item value="No up servers available from load balancer" />
@@ -49,8 +51,6 @@
       <item value="联系人" />
       <item value="Contact" />
       <item value="Cut Dummy" />
-      <item value="necessary" />
-      <item value="at the top of the minute - the 0th second" />
     </histories>
   </component>
 </application>
