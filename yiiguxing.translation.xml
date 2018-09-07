@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Either 'name' or 'value' must be provided in @FeignClient" />
       <item value="no suitable HttpMessageConverter found for response type" />
       <item value="specified" />
       <item value="org . springframework . cloud" />
@@ -50,7 +51,6 @@
       <item value="peer Number" />
       <item value="联系人" />
       <item value="Contact" />
-      <item value="Cut Dummy" />
     </histories>
   </component>
 </application>
