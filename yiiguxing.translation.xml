@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org . springframework . cloud" />
       <item value="yield" />
       <item value="No up servers available from load balancer" />
       <item value="The most well known and basic load balancing strategy, i.e. Round Robin Rule." />
@@ -50,7 +51,6 @@
       <item value="Cut Dummy" />
       <item value="necessary" />
       <item value="at the top of the minute - the 0th second" />
-      <item value="an expression that can be parsed to a cron schedule" />
     </histories>
   </component>
 </application>
