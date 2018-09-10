@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" After correcting the problems, you can resume the build with the command" />
       <item value="Either 'name' or 'value' must be provided in @FeignClient" />
       <item value="no suitable HttpMessageConverter found for response type" />
       <item value="specified" />
@@ -50,7 +51,13 @@
       <item value="通话时长" />
       <item value="peer Number" />
       <item value="联系人" />
-      <item value="Contact" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE_TRADITIONAL" value="1" />
+      </map>
+    </option>
   </component>
 </application>
