@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="白名单" />
+      <item value="White" />
       <item value="default constructor not found" />
       <item value="重复" />
       <item value="intersect" />
       <item value="Hint" />
-      <item value="白名单" />
       <item value="backstage app user white_" />
       <item value="导入" />
       <item value="import" />
@@ -50,12 +51,11 @@
       <item value="Class that contains the mechanism to &quot;ping&quot; all the instances" />
       <item value="Resolving eureka endpoints via configuration" />
       <item value="Could not locate PropertySource" />
-      <item value="Running the evict task with compensationTime" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="10" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ITALIAN" value="2" />
       </map>
