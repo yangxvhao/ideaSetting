@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="default constructor not found" />
       <item value="重复" />
       <item value="intersect" />
       <item value="Hint" />
@@ -50,12 +51,11 @@
       <item value="Resolving eureka endpoints via configuration" />
       <item value="Could not locate PropertySource" />
       <item value="Running the evict task with compensationTime" />
-      <item value="Getting all instance registry info from the eureka server" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="9" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ITALIAN" value="2" />
       </map>
