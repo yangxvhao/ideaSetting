@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="重复" />
       <item value="intersect" />
       <item value="Hint" />
       <item value="白名单" />
@@ -50,7 +51,6 @@
       <item value="Could not locate PropertySource" />
       <item value="Running the evict task with compensationTime" />
       <item value="Getting all instance registry info from the eureka server" />
-      <item value="Composite Predicate" />
     </histories>
     <option name="languageScores">
       <map>
