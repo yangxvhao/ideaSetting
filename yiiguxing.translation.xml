@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="local variable 'order_data' referenced before assignment" />
       <item value="Badly formatted multipart request" />
       <item value="Current request is not of type" />
       <item value="白名单" />
@@ -50,12 +51,11 @@
       <item value="Candidates" />
       <item value="The readLock should be free unless an addServer operation is * going on." />
       <item value="The readLock should be free unless an addServer operation is * going on..." />
-      <item value="Class that contains the mechanism to &quot;ping&quot; all the instances" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="13" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ITALIAN" value="2" />
       </map>
