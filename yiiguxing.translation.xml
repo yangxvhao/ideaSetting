@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Could not locate PropertySource and the fail fast property is set, failing" />
       <item value="name 'order_data' is not defined" />
       <item value="local variable 'order_data' referenced before assignment" />
       <item value="Badly formatted multipart request" />
@@ -50,12 +51,11 @@
       <item value="typical" />
       <item value="Interface that defines the operations for a software loadbalancer." />
       <item value="Candidates" />
-      <item value="The readLock should be free unless an addServer operation is * going on." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="17" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ITALIAN" value="2" />
       </map>
