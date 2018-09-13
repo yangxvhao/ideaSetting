@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fit" />
       <item value="Predictors" />
       <item value="Could not locate PropertySource and the fail fast property is set, failing" />
       <item value="name 'order_data' is not defined" />
@@ -50,12 +51,11 @@
       <item value="loadbalancer" />
       <item value="version" />
       <item value="typical" />
-      <item value="Interface that defines the operations for a software loadbalancer." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="19" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ITALIAN" value="2" />
       </map>
