@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="calculate" />
+      <item value="计算" />
       <item value="therorg" />
       <item value="loan Classify" />
       <item value="adtrate" />
@@ -49,12 +51,10 @@
       <item value="reachable" />
       <item value="null if * the load balancer does not use this parameter." />
       <item value="An object that the load balancer may use to determine which server to return" />
-      <item value="stonse" />
-      <item value="A typical * loadbalancer minimally need a set of servers to loadbalance for, a method to * mark a particular server to be out of rotation and a call that will choose a * server from the existing list of server." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
+        <entry key="CHINESE" value="25" />
         <entry key="ENGLISH" value="25" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ITALIAN" value="2" />
