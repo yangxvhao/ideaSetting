@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="entries" />
+      <item value="probability" />
+      <item value="category" />
+      <item value="floor" />
       <item value="This method may be invoked early during VM initialization * before IntegerCache is initialized." />
       <item value="This method may be invoked early during VM initialization * before IntegerCache is initialized. Care must be taken to not use * the valueOf method." />
       <item value="invoked" />
@@ -47,15 +51,11 @@
       <item value="for example, element at index 2 holds the sum of weight of servers from 0 to 2" />
       <item value="holds the accumulated weight from index 0 to current index" />
       <item value="accumulated" />
-      <item value="Rule that use the average/percentile response times * to assign dynamic &quot;weights&quot; per Server which is then used in * the &quot;Weighted Round Robin&quot; fashion." />
-      <item value="Strategy" />
-      <item value="equivalent" />
-      <item value="available" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="28" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="CHINESE" value="31" />
+        <entry key="ENGLISH" value="32" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ITALIAN" value="2" />
       </map>
