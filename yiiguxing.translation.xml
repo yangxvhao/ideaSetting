@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="nested exception is org.apache.ibatis.reflection.ReflectionException: Ambiguous setters defined for property 'descs' in class 'class com.baomidou.mybatisplus.extension.plugins.pagination.Page' with types 'java.util.List' and '[Ljava.lang.String;'." />
       <item value="fit" />
       <item value="transform" />
       <item value="entries" />
@@ -50,12 +51,11 @@
       <item value="Modulo" />
       <item value="daemon" />
       <item value="Assignment" />
-      <item value="for example, element at index 2 holds the sum of weight of servers from 0 to 2" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="35" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ITALIAN" value="2" />
       </map>
