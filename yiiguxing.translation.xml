@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="transform" />
       <item value="entries" />
       <item value="probability" />
       <item value="category" />
@@ -50,12 +51,11 @@
       <item value="Assignment" />
       <item value="for example, element at index 2 holds the sum of weight of servers from 0 to 2" />
       <item value="holds the accumulated weight from index 0 to current index" />
-      <item value="accumulated" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="32" />
+        <entry key="ENGLISH" value="33" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ITALIAN" value="2" />
       </map>
