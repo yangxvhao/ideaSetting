@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="instantiating" />
       <item value="IPage with invalid types () or values ()" />
       <item value="重复" />
       <item value="nested exception is org.apache.ibatis.reflection.ReflectionException: Ambiguous setters defined for property 'descs' in class 'class com.baomidou.mybatisplus.extension.plugins.pagination.Page' with types 'java.util.List' and '[Ljava.lang.String;'." />
@@ -50,12 +51,11 @@
       <item value="next Server Cyclic Counter" />
       <item value="Inspired by the implementation of" />
       <item value="Modulo" />
-      <item value="daemon" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="37" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ITALIAN" value="2" />
       </map>
