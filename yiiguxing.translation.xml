@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="重复" />
       <item value="nested exception is org.apache.ibatis.reflection.ReflectionException: Ambiguous setters defined for property 'descs' in class 'class com.baomidou.mybatisplus.extension.plugins.pagination.Page' with types 'java.util.List' and '[Ljava.lang.String;'." />
       <item value="fit" />
       <item value="transform" />
@@ -29,7 +30,6 @@
       <item value="白名单" />
       <item value="White" />
       <item value="default constructor not found" />
-      <item value="重复" />
       <item value="intersect" />
       <item value="Hint" />
       <item value="backstage app user white_" />
