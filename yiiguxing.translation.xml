@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Start" />
       <item value="PLACEHOLDER" />
       <item value="紧急联系人" />
       <item value="紧急" />
@@ -50,12 +51,11 @@
       <item value="Either 'name' or 'value' must be provided in @FeignClient" />
       <item value="no suitable HttpMessageConverter found for response type" />
       <item value="specified" />
-      <item value="org . springframework . cloud" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="39" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="40" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ITALIAN" value="2" />
       </map>
