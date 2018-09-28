@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Extractor" />
       <item value="distinct" />
       <item value="seen" />
       <item value="国家" />
@@ -50,12 +51,11 @@
       <item value="Quota" />
       <item value="frozen" />
       <item value="cash" />
-      <item value=" After correcting the problems, you can resume the build with the command" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="43" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ITALIAN" value="2" />
       </map>
