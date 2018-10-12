@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Condition" />
       <item value="金额" />
       <item value="Fee" />
       <item value="申请" />
@@ -50,12 +51,11 @@
       <item value="Could not locate PropertySource and the fail fast property is set, failing" />
       <item value="name 'order_data' is not defined" />
       <item value="local variable 'order_data' referenced before assignment" />
-      <item value="Badly formatted multipart request" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="48" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ITALIAN" value="2" />
       </map>
