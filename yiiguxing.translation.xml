@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="申请" />
       <item value="bonus" />
       <item value="contact" />
       <item value="emergency" />
@@ -50,12 +51,11 @@
       <item value="Badly formatted multipart request" />
       <item value="Current request is not of type" />
       <item value="白名单" />
-      <item value="White" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="ENGLISH" value="46" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ITALIAN" value="2" />
       </map>
