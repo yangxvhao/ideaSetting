@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="proposal" />
       <item value="external" />
       <item value="Condition" />
       <item value="金额" />
@@ -50,12 +51,11 @@
       <item value="Fit" />
       <item value="Predictors" />
       <item value="Could not locate PropertySource and the fail fast property is set, failing" />
-      <item value="name 'order_data' is not defined" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="50" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ITALIAN" value="2" />
       </map>
