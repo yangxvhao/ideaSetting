@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Batch" />
       <item value="proposal" />
       <item value="external" />
       <item value="Condition" />
@@ -50,12 +51,11 @@
       <item value="Interval" />
       <item value="Fit" />
       <item value="Predictors" />
-      <item value="Could not locate PropertySource and the fail fast property is set, failing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="51" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ITALIAN" value="2" />
       </map>
