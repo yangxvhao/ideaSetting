@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="提单" />
+      <item value="投保" />
+      <item value="线下" />
+      <item value="线上" />
       <item value="半年" />
       <item value="Quarter" />
       <item value="季度" />
@@ -47,10 +51,6 @@
       <item value="fit" />
       <item value="transform" />
       <item value="entries" />
-      <item value="probability" />
-      <item value="category" />
-      <item value="floor" />
-      <item value="This method may be invoked early during VM initialization * before IntegerCache is initialized." />
     </histories>
     <option name="languageScores">
       <map>
