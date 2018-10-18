@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="生成" />
       <item value="确认" />
       <item value="提单" />
       <item value="投保" />
@@ -50,7 +51,6 @@
       <item value="重复" />
       <item value="nested exception is org.apache.ibatis.reflection.ReflectionException: Ambiguous setters defined for property 'descs' in class 'class com.baomidou.mybatisplus.extension.plugins.pagination.Page' with types 'java.util.List' and '[Ljava.lang.String;'." />
       <item value="fit" />
-      <item value="transform" />
     </histories>
     <option name="languageScores">
       <map>
