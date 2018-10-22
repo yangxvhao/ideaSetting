@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Stream" />
       <item value="推荐人" />
       <item value="inviter" />
       <item value="AGENT" />
@@ -50,12 +51,11 @@
       <item value="国家" />
       <item value="Start" />
       <item value="PLACEHOLDER" />
-      <item value="紧急联系人" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="62" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ITALIAN" value="2" />
       </map>
