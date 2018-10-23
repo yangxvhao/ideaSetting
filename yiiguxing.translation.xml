@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No installed provider supports this key" />
       <item value="The error occurred while handling results" />
       <item value="no exact representable decimal result" />
       <item value="上上级" />
@@ -50,12 +51,11 @@
       <item value="beneficiaryList" />
       <item value="beneficiary" />
       <item value="insurance policy" />
-      <item value="保单" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="69" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ITALIAN" value="2" />
       </map>
