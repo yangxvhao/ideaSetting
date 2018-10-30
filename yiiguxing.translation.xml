@@ -1,61 +1,61 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="紧急联系人" />
-      <item value="紧急" />
-      <item value="Emegency" />
-      <item value="condition" />
-      <item value="条件" />
-      <item value="instantiating" />
-      <item value="IPage with invalid types () or values ()" />
-      <item value="重复" />
-      <item value="nested exception is org.apache.ibatis.reflection.ReflectionException: Ambiguous setters defined for property 'descs' in class 'class com.baomidou.mybatisplus.extension.plugins.pagination.Page' with types 'java.util.List' and '[Ljava.lang.String;'." />
-      <item value="fit" />
-      <item value="transform" />
-      <item value="entries" />
-      <item value="probability" />
-      <item value="category" />
-      <item value="floor" />
-      <item value="This method may be invoked early during VM initialization * before IntegerCache is initialized." />
-      <item value="This method may be invoked early during VM initialization * before IntegerCache is initialized. Care must be taken to not use * the valueOf method." />
-      <item value="invoked" />
-      <item value="calculate" />
-      <item value="计算" />
-      <item value="therorg" />
-      <item value="loan Classify" />
-      <item value="adtrate" />
-      <item value="bins" />
-      <item value="feature" />
-      <item value="Interval" />
-      <item value="Fit" />
-      <item value="Predictors" />
-      <item value="Could not locate PropertySource and the fail fast property is set, failing" />
-      <item value="name 'order_data' is not defined" />
-      <item value="local variable 'order_data' referenced before assignment" />
-      <item value="Badly formatted multipart request" />
-      <item value="Current request is not of type" />
-      <item value="白名单" />
-      <item value="White" />
-      <item value="default constructor not found" />
-      <item value="intersect" />
-      <item value="Hint" />
-      <item value="backstage app user white_" />
-      <item value="导入" />
-      <item value="import" />
-      <item value="Quota" />
-      <item value="frozen" />
-      <item value="cash" />
-      <item value=" After correcting the problems, you can resume the build with the command" />
-      <item value="Either 'name' or 'value' must be provided in @FeignClient" />
-      <item value="no suitable HttpMessageConverter found for response type" />
-      <item value="specified" />
-      <item value="org . springframework . cloud" />
-      <item value="yield" />
+      <item value="native" />
+      <item value="Returns a canonical representation for the string object." />
+      <item value="Appends the specified element to the end of this list." />
+      <item value="mutex" />
+      <item value="Rehash the table if the threshold is exceeded" />
+      <item value="possibly remove eldest" />
+      <item value="evict" />
+      <item value="internal utilities" />
+      <item value="Returns a power of two size for the given target capacity." />
+      <item value="Basic hash bin node, used for most entries." />
+      <item value="The bin count threshold for untreeifying a (split) bin during a * resize operation. Should be less than TREEIFY_THRESHOLD, and at * most 6 to mesh with shrinkage detection under removal." />
+      <item value="The bin count threshold for using a tree rather than list for a * bin. Bins are converted to trees when adding an element to a * bin with at least this many nodes. The value must be greater * than 2 and should be at least 8 to mesh with assumptions in * tree removal about conversion back to plain bins upon * shrinkage" />
+      <item value="The load factor used when none specified in constructor." />
+      <item value="aka " />
+      <item value="Ignoring variance, the expected * occurrences of list size k are (exp(-0.5) * pow(0.5, k) / * factorial(k)). The first values are:" />
+      <item value="Ideally, under random hashCodes, the frequency of * nodes in bins follows a Poisson distribution * (http://en.wikipedia.org/wiki/Poisson_distribution) with a * parameter of about 0.5 on average for the default resizing * threshold of 0.75, although with a large variance because of * resizing granularity." />
+      <item value="And when they become too small (due to * removal or resizing) they are converted back to plain bins. In * usages with well-distributed user hashCodes, tree bins are * rarely used." />
+      <item value="Because TreeNodes are about twice the size of regular nodes, we * use them only when bins contain enough nodes to warrant use * (see TREEIFY_THRESHOLD)." />
+      <item value="less than 1 in ten million" />
+      <item value="No installed provider supports this key" />
+      <item value="The error occurred while handling results" />
+      <item value="no exact representable decimal result" />
+      <item value="上上级" />
+      <item value="上级" />
+      <item value="one Record" />
+      <item value="descending" />
+      <item value="Array * deques have no capacity restrictions; they grow as necessary to support * usage." />
+      <item value="distinct" />
+      <item value="Stream" />
+      <item value="推荐人" />
+      <item value="inviter" />
+      <item value="AGENT" />
+      <item value="AGGENT" />
+      <item value="divide" />
+      <item value="姐妹" />
+      <item value="驾照" />
+      <item value="军官证" />
+      <item value="户口本" />
+      <item value="生成" />
+      <item value="确认" />
+      <item value="提单" />
+      <item value="投保" />
+      <item value="线下" />
+      <item value="线上" />
+      <item value="半年" />
+      <item value="Quarter" />
+      <item value="季度" />
+      <item value="ｊｉｄｕ" />
+      <item value="designation" />
+      <item value="指定" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="CHINESE" value="88" />
+        <entry key="ENGLISH" value="89" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ITALIAN" value="2" />
       </map>

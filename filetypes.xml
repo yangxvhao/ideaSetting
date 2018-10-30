@@ -12,7 +12,9 @@
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="export1.sql" type="PLAIN_TEXT" />
+      <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="pmml" type="PLAIN_TEXT" />
+      <mapping ext="pfx" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
